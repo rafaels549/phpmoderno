@@ -2,7 +2,7 @@
 
 namespace Rafael\PhpEstudos;
 
-class PessoaJuridica extends Pessoa {
+class PessoaJuridica extends Pessoa implements InfoInterface {
     private string $cnpj;
 
     public function __construct(string $nome, string $endereco, string $cnpj) {

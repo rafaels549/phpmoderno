@@ -7,3 +7,6 @@ design patterns
 
 
 palavara reservada final é usada nos value object
+
+
+classe Fluent do laravel (tranforma array em objeto)

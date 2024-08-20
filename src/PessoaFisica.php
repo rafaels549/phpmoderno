@@ -2,7 +2,7 @@
 
 namespace Rafael\PhpEstudos;
 
-class PessoaFisica extends Pessoa {
+class PessoaFisica extends Pessoa implements InfoInterface {
     private string $cpf;
     private string $dataNascimento;
 
