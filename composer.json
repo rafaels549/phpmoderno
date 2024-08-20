@@ -1,0 +1,17 @@
+{
+    "name": "rafael/php-estudos",
+    "description": "php estudos",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rafael\\PhpEstudos\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rafaels549",
+            "email": "rafalesantoscostat@gmail.com"
+        }
+    ],
+    "require": {}
+}

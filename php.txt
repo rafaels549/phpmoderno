@@ -1,0 +1,9 @@
+callable , quando voce colocar um parametro que é uma funcão
+
+
+Closure === callable
+
+design patterns
+
+
+palavara reservada final é usada nos value object
