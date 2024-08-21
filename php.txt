@@ -10,3 +10,9 @@ palavara reservada final é usada nos value object
 
 
 classe Fluent do laravel (tranforma array em objeto)
+
+__invoke serve para usar o objeto como metodo
+
+__construct construir o objeto
+
+__destruct destruir um objeto
